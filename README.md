@@ -1,4 +1,4 @@
-Affirmations App - 
+Affirmations App 
 ================================
 
 Introduction
