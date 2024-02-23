@@ -121,8 +121,6 @@ fun AffirmationList(affirmationList: List<Affirmation>, modifier: Modifier = Mod
 
 }
 
-
-
 @Preview
 @Composable
 private fun AffirmationCardPreview(){
